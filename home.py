@@ -10,4 +10,4 @@ def app():
 	
 	
 	
-	Built by Ishaan :)""")
+	Built by Ishaan""")
